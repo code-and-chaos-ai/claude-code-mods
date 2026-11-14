@@ -1,0 +1,8 @@
+{
+  "name": "code-and-chaos-mods",
+  "owner": { "name": "Code & Chaos" },
+  "plugins": [
+    { "name": "night-sky", "source": "./plugins/night-sky" },
+    { "name": "altshot", "source": "./plugins/altshot" }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "altshot",
+  "version": "0.1.0",
+  "description": "Hands each altshot screenshot (Left Alt + Right Alt) to the Claude Code session you last typed in, as a draft in the prompt box, with a note of what was blacked out."
+}
